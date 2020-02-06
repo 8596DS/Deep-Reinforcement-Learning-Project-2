@@ -46,5 +46,5 @@ checkpoint_critic.pth - is the final trained Critic network
 ## Results
 
 The average reward collection over 100 episodes plotted in a graph below. It shows the reward on the Y axis for every episode on the X axis
-
+![](https://github.com/8596DS/Deep-Reinforcement-Learning-Project-2/blob/master/result.png)
 
