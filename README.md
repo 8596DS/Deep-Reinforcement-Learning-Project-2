@@ -47,4 +47,4 @@ checkpoint_critic.pth - is the final trained Critic network
 
 The average reward collection over 100 episodes plotted in a graph below. It shows the reward on the Y axis for every episode on the X axis
 
-![](result.png)
+
