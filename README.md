@@ -6,6 +6,8 @@ To train a [Actor Critic Policy Gradient Network](https://deepmind.com/research/
 
 You can view the publication from DeepMind [here](https://arxiv.org/pdf/1611.01224.pdf)
 
+![Picture of the environment](environement.gif)
+
 ## Background
 
 In this environment, a double-jointed arm can move to target locations. 
